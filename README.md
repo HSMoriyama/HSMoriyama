@@ -29,7 +29,7 @@ have knowledge in Git and GitHub as for solo work as than team work and knowledg
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HSMoriyama)
 
 ### Contact
-Phone: 15-99825-5286 |
+Phone: +55 (15)99825-5286 |
 Email: higor.moriyama@gmail.com
 
 
