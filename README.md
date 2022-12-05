@@ -9,6 +9,9 @@ I have technical degree in IT and Eletrotechnical, at the moment I'm studying Sy
 in fullstack development, knowledge I acquired in a Java academy given by the company Atos in a partnership with UFN - Universidade Franciscana, I also
 have knowledge in Git and GitHub as for solo work as than team work and knowledge in computer network.
 
+### Languages:
+• English: Advanced
+
 ### Technologies I use:
 ### Front-end: 
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
