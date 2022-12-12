@@ -13,7 +13,7 @@ have knowledge in Git and GitHub as for solo work as than team work and knowledg
 • English: Advanced
 
 ### Technologies I use:
-### Front-end: in development
+### Front-end:
 ![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
@@ -63,7 +63,7 @@ Sou formado técnico em "TI", "Eletrotécnica" e estou cursando o ensino superio
 •	Flexibilidade
 
 ### Técnologias que utilizo:
-### Front-end: in development
+### Front-end:
 ![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
